@@ -130,3 +130,10 @@ interactive-qa-system/
 
 Feel free to contribute or raise issues in the repository! 🚀
 
+# Output should look like similar to this.
+![qna_system_gemi_page-0001](https://github.com/user-attachments/assets/e8e02a24-0153-42ce-883e-5ea829fcedb2)
+
+![qna_system_gemi_page-0002](https://github.com/user-attachments/assets/11aea195-d483-4060-93ac-9a045382167c)
+
+![qna_system_gemi_page-0003](https://github.com/user-attachments/assets/a65d2b72-7303-4716-8726-0c2a81d8fc9a)
+
